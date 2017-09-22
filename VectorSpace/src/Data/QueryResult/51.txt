@@ -1,0 +1,12 @@
+inform 1
+pertain 1
+boundari 1
+layer 1
+slender 1
+bodi 1
+revolut 1
+continuum 1
+flow 1
+transvers 1
+curvatur 1
+effect 1

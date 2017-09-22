@@ -1,0 +1,8 @@
+approxim 1
+analyt 1
+heat 1
+conduct 1
+solut 1
+method 1
+biot 1
+principl 1

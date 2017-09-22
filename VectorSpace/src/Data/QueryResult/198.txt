@@ -1,0 +1,8 @@
+inform 1
+differ 1
+effect 1
+edg 1
+condit 1
+buckl 1
+cylindr 1
+shell 1

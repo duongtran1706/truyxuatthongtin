@@ -1,0 +1,16 @@
+theori 2
+quasicon 1
+flow 1
+develop 1
+superson 1
+linearis 1
+upwash 1
+distribut 1
+lift 1
+surfac 1
+homogen 1
+function 2
+coordin 1
+permit 1
+gener 1
+form 1

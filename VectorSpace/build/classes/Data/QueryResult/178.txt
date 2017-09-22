@@ -1,0 +1,7 @@
+criterion 1
+establish 1
+determin 1
+axial 1
+compressor 1
+choke 1
+line 1

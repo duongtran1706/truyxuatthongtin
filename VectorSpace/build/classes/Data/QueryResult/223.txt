@@ -1,0 +1,6 @@
+paper 1
+shear 2
+buckl 1
+unstiffen 1
+rectangular 1
+plate 1

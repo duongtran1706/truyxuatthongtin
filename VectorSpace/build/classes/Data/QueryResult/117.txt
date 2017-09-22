@@ -1,0 +1,9 @@
+inform 1
+addit 1
+boattail 1
+affect 1
+normal 1
+forc 1
+bodi 1
+angl 1
+incid 1

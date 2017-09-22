@@ -1,0 +1,9 @@
+threedimension 1
+problem 2
+transvers 1
+potenti 1
+flow 1
+bodi 1
+revolut 1
+reduc 1
+twodimension 1

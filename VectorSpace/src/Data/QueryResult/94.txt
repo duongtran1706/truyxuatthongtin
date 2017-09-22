@@ -1,0 +1,8 @@
+theoret 1
+heat 1
+transfer 1
+rate 1
+stagnat 1
+point 1
+blunt 1
+bodi 1

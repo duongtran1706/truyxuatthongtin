@@ -1,0 +1,9 @@
+investig 1
+effect 1
+shock 1
+gener 1
+vortic 1
+heat 1
+transfer 1
+blunt 1
+bodi 1

@@ -1,0 +1,12 @@
+effect 1
+initi 1
+axisymmetr 1
+deviat 1
+circular 1
+linear 1
+largedeflect 1
+loaddeflect 1
+respons 1
+cylind 1
+hydrostat 1
+pressur 1

@@ -1,0 +1,13 @@
+comment 1
+improv 1
+numer 1
+solut 2
+blasiu 1
+problem 2
+point 1
+boundari 1
+condit 1
+attent 1
+drawn 1
+previou 1
+accur 1

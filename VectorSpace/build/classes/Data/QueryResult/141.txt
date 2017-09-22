@@ -1,0 +1,6 @@
+analyt 1
+solut 1
+stress 1
+edgeload 1
+shell 1
+revolut 1

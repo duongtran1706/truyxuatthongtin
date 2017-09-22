@@ -1,0 +1,8 @@
+magnitud 1
+distribut 1
+lift 1
+cone 1
+cylindr 1
+portion 1
+conecylind 1
+configur 1

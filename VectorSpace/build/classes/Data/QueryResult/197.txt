@@ -1,0 +1,6 @@
+fatigu 1
+damag 1
+estim 1
+normal 1
+longhand 1
+method 1

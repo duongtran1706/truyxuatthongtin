@@ -1,0 +1,9 @@
+equat 1
+defin 1
+stabil 1
+simpli 1
+support 1
+corrug 1
+core 1
+sandwich 1
+cylind 1

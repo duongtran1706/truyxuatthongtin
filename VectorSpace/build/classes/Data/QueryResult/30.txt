@@ -1,0 +1,6 @@
+paper 1
+flow 1
+visual 1
+slender 1
+conic 1
+wing 1

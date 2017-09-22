@@ -1,0 +1,8 @@
+factor 1
+influenc 1
+time 1
+requir 1
+invert 1
+larg 1
+structur 1
+matric 1

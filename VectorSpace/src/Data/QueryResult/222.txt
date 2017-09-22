@@ -1,0 +1,5 @@
+investig 1
+shear 1
+buckl 1
+stiffen 1
+plate 1

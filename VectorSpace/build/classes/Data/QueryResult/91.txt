@@ -1,0 +1,4 @@
+interfer 1
+effect 1
+transon 1
+speed 1

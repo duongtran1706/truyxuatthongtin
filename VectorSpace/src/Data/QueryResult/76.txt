@@ -1,0 +1,11 @@
+trust 1
+linear 1
+viscositytemperatur 1
+solut 1
+assum 1
+analys 1
+hyperson 1
+shock 1
+layer 1
+reynold 1
+number 1

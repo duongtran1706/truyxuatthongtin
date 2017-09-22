@@ -1,0 +1,12 @@
+effect 2
+boundari 1
+layer 1
+modifi 1
+basic 1
+inviscid 1
+flow 1
+shock 1
+neglect 1
+lead 1
+edg 1
+corner 1

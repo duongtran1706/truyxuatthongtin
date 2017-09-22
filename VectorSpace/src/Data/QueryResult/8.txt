@@ -1,0 +1,10 @@
+method 1
+dash 2
+exact 1
+approxim 1
+present 1
+predict 1
+bodi 1
+pressur 1
+angl 1
+attack 1

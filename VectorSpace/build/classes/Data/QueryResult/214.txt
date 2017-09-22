@@ -1,0 +1,8 @@
+nonlinear 1
+shallow 1
+shell 1
+analysi 1
+reduc 1
+engin 1
+techniqu 1
+matrix 1

@@ -1,0 +1,9 @@
+effect 1
+cylind 1
+buckl 1
+circumferenti 1
+stress 1
+system 1
+vari 1
+axial 1
+direct 1

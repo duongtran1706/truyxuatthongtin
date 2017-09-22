@@ -1,0 +1,5 @@
+theoret 1
+heat 1
+transfer 1
+distribut 1
+hemispher 1

@@ -1,0 +1,13 @@
+bend 1
+strength 1
+pressur 2
+cylind 2
+discuss 1
+previous 1
+present 1
+experiment 1
+data 1
+load 1
+term 1
+membran 1
+theori 1

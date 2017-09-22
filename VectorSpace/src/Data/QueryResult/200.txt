@@ -1,0 +1,11 @@
+asymptot 1
+method 2
+suffici 1
+accur 1
+determin 1
+prebuckl 1
+stress 1
+torispher 1
+shell 1
+resort 1
+numer 1

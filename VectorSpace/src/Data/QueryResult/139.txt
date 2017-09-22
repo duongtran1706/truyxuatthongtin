@@ -1,0 +1,12 @@
+effect 1
+chang 1
+initi 1
+pressur 1
+due 1
+deform 1
+frequenc 1
+vibrat 1
+circular 1
+cylindr 1
+shell 1
+investig 1

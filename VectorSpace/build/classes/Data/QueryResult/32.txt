@@ -1,0 +1,7 @@
+find 1
+approxim 1
+correct 1
+thick 1
+slender 1
+thinw 1
+theori 1

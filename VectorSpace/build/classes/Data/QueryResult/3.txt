@@ -1,0 +1,6 @@
+problem 1
+heat 1
+conduct 1
+composit 1
+slab 1
+solv 1

@@ -1,0 +1,9 @@
+heat 1
+transfer 3
+downstream 1
+mass 2
+region 1
+effect 1
+nose 1
+blunt 1
+cone 1

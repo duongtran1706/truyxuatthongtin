@@ -1,0 +1,9 @@
+relat 1
+pressur 2
+distribut 1
+ogiv 2
+forebodi 2
+angl 2
+attack 2
+surfac 1
+equival 1

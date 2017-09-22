@@ -1,0 +1,9 @@
+effect 1
+elast 1
+edg 1
+restraint 1
+consid 1
+previou 1
+paper 1
+panel 1
+flutter 1

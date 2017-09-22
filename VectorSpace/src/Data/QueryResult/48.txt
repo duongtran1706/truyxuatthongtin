@@ -1,0 +1,5 @@
+control 1
+leadingedg 1
+attach 1
+transon 1
+speed 1

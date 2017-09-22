@@ -1,0 +1,6 @@
+gener 1
+method 1
+solv 1
+clamp 1
+plate 1
+problem 1

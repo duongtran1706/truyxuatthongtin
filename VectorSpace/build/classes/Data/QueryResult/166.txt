@@ -1,0 +1,9 @@
+experiment 1
+result 1
+stabil 1
+compress 1
+boundari 1
+layer 1
+induc 1
+move 1
+wave 1

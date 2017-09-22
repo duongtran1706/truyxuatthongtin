@@ -1,0 +1,8 @@
+realga 1
+transport 1
+properti 1
+air 1
+wide 1
+rang 1
+enthalpi 1
+densiti 1

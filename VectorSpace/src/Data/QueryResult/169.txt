@@ -1,0 +1,12 @@
+approxim 1
+solut 1
+indirect 1
+problem 1
+transon 1
+flow 1
+throat 1
+nozzl 2
+find 1
+axial 1
+veloc 1
+distribut 1

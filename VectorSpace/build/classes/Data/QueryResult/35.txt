@@ -1,0 +1,7 @@
+paper 1
+deal 1
+acoust 1
+wave 1
+propag 1
+react 1
+gase 1

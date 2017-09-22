@@ -1,0 +1,12 @@
+determin 1
+rate 1
+forc 1
+convect 1
+heat 2
+transfer 1
+cylind 1
+noncircular 1
+crosssect 1
+fluid 1
+flow 1
+gener 1

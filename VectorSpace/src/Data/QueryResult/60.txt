@@ -1,0 +1,11 @@
+simpl 1
+practic 1
+method 1
+numer 1
+integr 1
+mix 1
+problem 2
+blasiu 1
+threepoint 1
+boundari 1
+condit 1

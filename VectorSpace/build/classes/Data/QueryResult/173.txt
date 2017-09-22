@@ -1,0 +1,9 @@
+refer 1
+lyapunov 1
+method 1
+stabil 1
+linear 1
+differenti 1
+equat 1
+period 1
+coeffici 1

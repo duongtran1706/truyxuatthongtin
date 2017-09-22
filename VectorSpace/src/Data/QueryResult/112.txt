@@ -1,0 +1,11 @@
+solut 1
+clamp 1
+plate 1
+problem 2
+classic 1
+theori 1
+bend 1
+reduc 1
+success 1
+membran 1
+boundari 1

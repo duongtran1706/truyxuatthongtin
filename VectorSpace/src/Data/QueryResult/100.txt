@@ -1,0 +1,9 @@
+effect 1
+initi 1
+imperfect 1
+elast 1
+buckl 1
+cylindr 1
+shell 1
+axial 1
+compress 1

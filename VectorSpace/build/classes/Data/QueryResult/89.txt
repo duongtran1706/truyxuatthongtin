@@ -1,0 +1,8 @@
+flow 1
+transon 1
+speed 1
+delta 1
+wing 2
+closelyrel 1
+taper 1
+sweptback 1

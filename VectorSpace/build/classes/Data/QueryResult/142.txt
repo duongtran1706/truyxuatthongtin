@@ -1,0 +1,9 @@
+dome 1
+contour 1
+minim 1
+discontinu 1
+stress 1
+closur 1
+cylindr 1
+pressur 1
+vessel 1

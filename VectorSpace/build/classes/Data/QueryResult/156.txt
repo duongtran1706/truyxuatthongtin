@@ -1,0 +1,5 @@
+qualit 1
+quantit 1
+materi 2
+ablat 1
+research 1

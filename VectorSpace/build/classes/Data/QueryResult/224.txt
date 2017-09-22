@@ -1,0 +1,12 @@
+practic 1
+close 1
+realiti 1
+assumpt 1
+flow 1
+hyperson 1
+shock 1
+tube 1
+nitrogen 1
+nonvisc 1
+thermodynam 1
+equilibrium 1

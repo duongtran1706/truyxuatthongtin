@@ -1,0 +1,11 @@
+analyt 1
+solut 1
+buckl 2
+strength 1
+uniform 1
+circular 1
+cylind 1
+load 2
+axial 1
+compress 1
+refin 1

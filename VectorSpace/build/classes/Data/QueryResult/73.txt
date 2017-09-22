@@ -1,0 +1,14 @@
+role 1
+effect 1
+chemic 1
+reaction 1
+equilibrium 1
+plai 1
+similitud 1
+law 1
+govern 1
+hyperson 1
+flow 1
+slender 1
+aerodynam 1
+bodi 1

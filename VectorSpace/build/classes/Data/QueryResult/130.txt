@@ -1,0 +1,10 @@
+flutter 1
+characterist 1
+expos 1
+skin 1
+panel 1
+vertic 1
+stabil 1
+subject 1
+aerodynam 1
+heat 1

@@ -1,0 +1,16 @@
+effect 1
+shape 1
+drag 1
+polar 1
+lift 1
+spacecraft 1
+amount 1
+reduct 1
+maximum 1
+deceler 1
+obtain 1
+continu 1
+vari 1
+aerodynam 1
+coeffici 1
+reentri 1

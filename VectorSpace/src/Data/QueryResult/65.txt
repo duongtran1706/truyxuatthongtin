@@ -1,0 +1,9 @@
+boundari 1
+layer 1
+flat 1
+plate 1
+shear 1
+flow 1
+induc 1
+pressur 1
+gradient 1

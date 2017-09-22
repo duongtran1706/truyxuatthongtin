@@ -1,0 +1,11 @@
+satellit 1
+orbit 1
+contract 1
+action 1
+air 1
+drag 1
+atmospher 1
+scale 1
+height 1
+vari 1
+altitud 1

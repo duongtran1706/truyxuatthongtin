@@ -1,0 +1,8 @@
+nonlinear 1
+larg 1
+deflect 1
+analys 1
+conduct 1
+shell 1
+shape 1
+conic 1

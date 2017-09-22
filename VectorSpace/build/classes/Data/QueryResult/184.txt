@@ -1,0 +1,4 @@
+work 1
+smalloscil 1
+reentri 1
+motion 1

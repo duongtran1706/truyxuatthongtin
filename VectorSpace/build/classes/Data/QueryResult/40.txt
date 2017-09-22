@@ -1,0 +1,5 @@
+detect 1
+transit 1
+phenomena 1
+hyperson 1
+wake 1

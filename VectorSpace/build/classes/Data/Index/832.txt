@@ -1,0 +1,14 @@
+acceler 2
+converg 4
+iter 4
+process 1
+techniqu 1
+discuss 1
+appli 1
+procedur 1
+solut 1
+equat 1
+rate 1
+induc 1
+diverg 1
+illustr 1

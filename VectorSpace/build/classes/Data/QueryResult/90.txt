@@ -1,0 +1,4 @@
+data 1
+shockinduc 1
+boundarylay 1
+separ 1

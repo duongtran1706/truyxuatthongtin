@@ -1,0 +1,10 @@
+load 1
+deform 1
+characterist 1
+beam 1
+obtain 1
+materi 1
+inelast 1
+uniform 1
+temperatur 1
+present 1

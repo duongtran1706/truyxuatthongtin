@@ -1,0 +1,6 @@
+applic 1
+linear 1
+theori 1
+design 1
+curv 1
+wing 1

@@ -1,0 +1,9 @@
+develop 1
+analysi 1
+accur 1
+establish 1
+larg 1
+deflect 1
+behaviour 1
+conic 1
+shell 1

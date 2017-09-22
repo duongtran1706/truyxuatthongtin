@@ -1,0 +1,8 @@
+paper 1
+deal 1
+circumferenti 1
+buckl 2
+thermal 1
+due 1
+mechan 1
+load 1

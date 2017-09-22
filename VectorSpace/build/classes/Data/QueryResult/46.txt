@@ -1,0 +1,8 @@
+combin 1
+effect 1
+surfac 1
+heat 1
+mass 1
+transfer 1
+hyperson 1
+flow 1

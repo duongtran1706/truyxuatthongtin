@@ -1,0 +1,14 @@
+discrep 1
+current 1
+analys 1
+vortic 1
+effect 1
+stagnationpoint 1
+heat 1
+transfer 1
+result 1
+primarili 1
+differ 1
+viscositytemperatur 1
+law 1
+assum 1

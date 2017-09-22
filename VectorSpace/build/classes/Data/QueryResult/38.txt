@@ -1,0 +1,7 @@
+transit 1
+hyperson 1
+wake 1
+depend 1
+bodi 1
+geometri 1
+size 1

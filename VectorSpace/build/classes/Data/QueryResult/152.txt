@@ -1,0 +1,6 @@
+effect 1
+boundarylay 1
+wing 1
+pressur 1
+calcul 1
+magnitud 1

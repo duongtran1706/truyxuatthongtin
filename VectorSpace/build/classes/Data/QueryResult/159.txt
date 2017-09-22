@@ -1,0 +1,12 @@
+magnitud 1
+aerodynam 1
+damp 1
+flexibl 1
+vibrat 1
+mode 1
+slender 1
+bodi 1
+revolut 1
+characterist 1
+launch 1
+vehicl 1

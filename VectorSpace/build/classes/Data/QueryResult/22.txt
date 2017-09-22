@@ -1,0 +1,9 @@
+discov 1
+turbul 1
+skin 1
+friction 1
+sensit 1
+natur 1
+variat 1
+viscos 1
+temperatur 1

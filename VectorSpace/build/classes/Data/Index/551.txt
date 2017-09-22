@@ -1,0 +1,16 @@
+analysi 1
+load 2
+cantilev 1
+plate 2
+finit 2
+differ 3
+method 1
+pattern 1
+solut 2
+rectangular 1
+problem 2
+boundari 1
+condit 1
+transvers 1
+develop 1
+deuc 1

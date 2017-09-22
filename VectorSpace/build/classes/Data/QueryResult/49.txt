@@ -1,0 +1,12 @@
+threepoint 1
+boundaryvalu 1
+problem 1
+blasiu 1
+equat 1
+integr 1
+numer 1
+suitabl 1
+transform 1
+iter 1
+boundari 1
+condit 1

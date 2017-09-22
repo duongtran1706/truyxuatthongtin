@@ -1,0 +1,6 @@
+detail 1
+rigor 1
+kinet 1
+theori 2
+gase 1
+chapmanenskog 1

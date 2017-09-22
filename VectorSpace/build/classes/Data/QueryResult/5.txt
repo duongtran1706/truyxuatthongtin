@@ -1,0 +1,7 @@
+chemic 1
+kinet 1
+system 1
+applic 1
+hyperson 1
+aerodynam 1
+problem 1

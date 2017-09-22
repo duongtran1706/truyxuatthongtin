@@ -1,0 +1,7 @@
+explain 1
+kink 1
+surg 1
+line 1
+multistag 1
+axial 1
+compressor 1

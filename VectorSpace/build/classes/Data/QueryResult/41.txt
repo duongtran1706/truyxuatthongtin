@@ -1,0 +1,8 @@
+investig 1
+develop 1
+simpl 1
+model 1
+vortex 1
+wake 1
+cruciform 1
+wing 1

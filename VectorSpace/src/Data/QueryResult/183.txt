@@ -1,0 +1,7 @@
+factor 1
+shown 1
+primari 1
+influenc 1
+sonic 1
+boom 1
+strength 1

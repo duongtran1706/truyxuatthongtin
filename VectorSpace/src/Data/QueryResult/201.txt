@@ -1,0 +1,9 @@
+nonequilibrium 1
+chemic 1
+constitu 1
+viscou 1
+shock 1
+layer 1
+blunt 1
+reentri 1
+vehicl 1

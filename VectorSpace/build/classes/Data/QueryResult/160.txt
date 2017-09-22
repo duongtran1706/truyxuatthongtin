@@ -1,0 +1,16 @@
+compress 1
+circumferenti 1
+stress 2
+torispher 1
+shell 2
+reveal 1
+possibl 1
+buckl 2
+intern 1
+pressur 1
+investig 1
+rang 1
+paramet 1
+suffici 1
+larg 1
+elast 1

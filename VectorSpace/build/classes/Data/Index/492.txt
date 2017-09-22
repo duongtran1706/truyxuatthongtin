@@ -1,0 +1,17 @@
+predict 1
+ogiv 2
+forebodi 2
+pressur 4
+angl 4
+attack 4
+approxim 2
+suggest 1
+obtain 2
+surfac 2
+arbitrari 1
+bodi 1
+present 1
+method 1
+distribut 1
+util 1
+calcul 1

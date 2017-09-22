@@ -1,0 +1,6 @@
+theoret 1
+method 1
+calcul 1
+pressur 1
+surfac 1
+wing 1

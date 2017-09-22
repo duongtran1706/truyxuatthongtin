@@ -1,0 +1,17 @@
+natur 2
+frequenc 2
+continu 2
+beam 2
+uniform 2
+span 2
+length 2
+simpl 1
+graphic 1
+network 2
+determin 1
+flexur 1
+vibrat 1
+number 1
+base 1
+calcul 1
+valu 1

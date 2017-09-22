@@ -1,0 +1,11 @@
+accur 1
+exist 1
+analyt 1
+theori 1
+estim 1
+pressur 1
+distribut 1
+cone 1
+incid 1
+hyperson 1
+speed 1

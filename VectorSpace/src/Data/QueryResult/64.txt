@@ -1,0 +1,10 @@
+static 1
+deflect 1
+shape 2
+predict 1
+flutter 1
+place 1
+vibrat 1
+provid 1
+justif 1
+mean 1

@@ -1,0 +1,6 @@
+basic 1
+dynam 1
+characterist 1
+structur 1
+continu 1
+span 1

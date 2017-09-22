@@ -1,0 +1,9 @@
+extent 1
+inform 1
+incompress 1
+boundari 2
+layer 2
+appli 1
+problem 1
+involv 1
+compress 1

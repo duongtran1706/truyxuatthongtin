@@ -1,0 +1,14 @@
+formal 1
+determin 1
+influenc 1
+joul 1
+heat 1
+produc 1
+induc 1
+current 1
+magnetohydrodynam 1
+free 1
+convect 1
+flow 1
+gener 1
+condit 1

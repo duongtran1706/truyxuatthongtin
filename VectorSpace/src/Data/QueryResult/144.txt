@@ -1,0 +1,16 @@
+studi 1
+pure 1
+membran 1
+cylind 2
+wall 2
+bend 1
+stiff 2
+maintain 1
+shape 1
+virtu 1
+intern 1
+pressur 2
+provid 1
+insight 1
+behaviour 1
+finit 1

@@ -1,0 +1,10 @@
+paramet 1
+influenc 1
+natur 1
+transit 1
+laminar 1
+turbul 1
+flow 1
+model 1
+wind 1
+tunnel 1

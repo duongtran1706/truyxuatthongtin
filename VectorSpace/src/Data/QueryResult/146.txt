@@ -1,0 +1,8 @@
+membran 2
+theori 1
+exist 1
+behaviour 1
+pressur 1
+cylind 1
+bend 1
+predict 1

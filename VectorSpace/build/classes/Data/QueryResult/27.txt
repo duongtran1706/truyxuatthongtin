@@ -1,0 +1,8 @@
+design 1
+ring 2
+part 1
+wing 1
+linear 1
+theori 1
+affect 1
+thick 1

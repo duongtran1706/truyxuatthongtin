@@ -1,0 +1,13 @@
+boundari 2
+layer 2
+simpl 1
+shear 1
+flow 2
+flat 1
+plate 1
+equat 1
+present 1
+steadi 1
+incompress 1
+pressur 1
+gradient 1

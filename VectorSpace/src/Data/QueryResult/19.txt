@@ -1,0 +1,13 @@
+exist 1
+good 1
+basic 1
+treatment 1
+dynam 1
+reentri 1
+combin 1
+consider 1
+realist 1
+effect 1
+rel 1
+simplic 1
+result 1

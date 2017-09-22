@@ -1,0 +1,6 @@
+mode 1
+stall 1
+expect 1
+stage 1
+axial 1
+compressor 1

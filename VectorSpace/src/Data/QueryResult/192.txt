@@ -1,0 +1,5 @@
+paper 1
+deal 1
+uniformli 1
+load 1
+sector 1

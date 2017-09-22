@@ -1,0 +1,5 @@
+scale 1
+height 1
+vari 1
+altitud 1
+atmospher 1

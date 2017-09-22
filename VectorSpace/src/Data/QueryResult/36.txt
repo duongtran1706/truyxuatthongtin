@@ -1,0 +1,8 @@
+investig 1
+relax 1
+effect 1
+gaseou 1
+heat 2
+transfer 1
+suddenli 1
+wall 1

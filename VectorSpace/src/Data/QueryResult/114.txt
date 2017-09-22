@@ -1,0 +1,13 @@
+airforc 2
+wing 1
+gener 1
+planform 2
+oscil 1
+transon 1
+flow 1
+determin 2
+pure 1
+analyt 1
+method 2
+singl 1
+rectangular 1

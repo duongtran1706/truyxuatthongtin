@@ -1,0 +1,6 @@
+gener 1
+solut 1
+stress 1
+pressur 1
+shell 1
+revolut 1

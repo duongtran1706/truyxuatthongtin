@@ -1,0 +1,8 @@
+seri 1
+expans 1
+boundari 1
+layer 1
+flat 1
+plate 1
+shear 1
+flow 1

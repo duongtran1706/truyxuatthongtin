@@ -1,0 +1,10 @@
+effect 1
+leadingedg 1
+blunt 1
+flutter 1
+characterist 1
+squareplanform 1
+doublewedg 1
+airfoil 1
+mach 1
+number 1

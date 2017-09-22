@@ -1,0 +1,8 @@
+effect 1
+intern 1
+liquid 1
+column 1
+breath 1
+vibrat 1
+cylindr 1
+shell 1

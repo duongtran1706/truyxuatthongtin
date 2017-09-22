@@ -1,0 +1,6 @@
+asymptot 1
+solut 1
+exact 1
+boundari 1
+layer 1
+equat 1

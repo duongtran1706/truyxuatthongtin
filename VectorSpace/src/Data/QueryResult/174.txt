@@ -1,0 +1,7 @@
+obtain 1
+paper 1
+report 1
+shock 1
+detach 1
+distanc 1
+data 1

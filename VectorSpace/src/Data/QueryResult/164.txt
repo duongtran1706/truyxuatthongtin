@@ -1,0 +1,5 @@
+determin 1
+onset 1
+shockinduc 1
+boundarylay 1
+separ 1

@@ -1,0 +1,12 @@
+accur 1
+exact 1
+solut 1
+laminar 1
+separ 1
+point 1
+incompress 1
+compress 1
+boundari 1
+layer 1
+heat 1
+transfer 1

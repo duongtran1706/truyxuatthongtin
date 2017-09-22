@@ -1,0 +1,11 @@
+investig 1
+flow 1
+field 2
+bodi 1
+move 1
+rarefi 1
+partial 1
+ioniz 1
+ga 1
+presenc 1
+magnet 1

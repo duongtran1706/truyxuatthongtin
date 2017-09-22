@@ -1,0 +1,7 @@
+simpl 1
+empir 1
+method 1
+estim 1
+pressur 1
+distribut 1
+cone 1

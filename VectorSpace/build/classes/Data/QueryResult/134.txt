@@ -1,0 +1,9 @@
+correl 1
+result 1
+creep 1
+buckl 1
+wide 1
+structur 1
+framework 1
+singl 1
+theori 1

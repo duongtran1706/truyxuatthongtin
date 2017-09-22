@@ -1,0 +1,11 @@
+criterion 1
+true 1
+panel 1
+flutter 1
+oppos 1
+small 1
+amplitud 1
+vibrat 1
+aris 1
+acoust 1
+disturb 1

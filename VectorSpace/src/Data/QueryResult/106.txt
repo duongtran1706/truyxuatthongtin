@@ -1,0 +1,4 @@
+experiment 1
+techniqu 1
+shell 1
+vibrat 1

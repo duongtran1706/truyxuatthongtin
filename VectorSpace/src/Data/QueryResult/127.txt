@@ -1,0 +1,9 @@
+obtain 1
+simpl 1
+analyt 1
+solut 1
+heat 2
+equat 1
+exponenti 1
+time 1
+input 1

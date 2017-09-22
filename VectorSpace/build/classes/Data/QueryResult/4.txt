@@ -1,0 +1,17 @@
+criterion 1
+develop 1
+show 1
+empir 1
+valid 1
+flow 1
+solut 1
+chemic 2
+react 1
+ga 1
+mixtur 1
+base 1
+simplifi 1
+assumpt 1
+instantan 1
+local 1
+equilibrium 1

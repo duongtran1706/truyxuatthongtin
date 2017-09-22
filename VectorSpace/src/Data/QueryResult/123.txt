@@ -1,0 +1,8 @@
+work 1
+determin 1
+natur 1
+compress 1
+viscou 1
+flow 1
+straight 1
+channel 1

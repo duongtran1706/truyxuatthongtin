@@ -1,0 +1,8 @@
+effect 1
+thermal 1
+stress 1
+compress 1
+buckl 1
+strength 1
+ringstiffen 1
+cylind 1

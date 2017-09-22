@@ -1,0 +1,9 @@
+inform 1
+pertain 1
+effect 2
+slight 1
+rarefact 1
+boundari 1
+layer 1
+flow 1
+slip 1

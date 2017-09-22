@@ -1,0 +1,5 @@
+basic 1
+mechan 1
+transon 1
+aileron 1
+buzz 1

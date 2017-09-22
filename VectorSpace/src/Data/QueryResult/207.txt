@@ -1,0 +1,7 @@
+larg 1
+mass 1
+ratio 1
+quantit 1
+affect 1
+wingflutt 1
+boundari 1

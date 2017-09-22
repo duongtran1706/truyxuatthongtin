@@ -1,0 +1,8 @@
+exist 1
+solut 1
+hyperson 1
+viscou 1
+interact 1
+insul 1
+flat 1
+plate 1

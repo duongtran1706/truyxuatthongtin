@@ -1,0 +1,12 @@
+singl 1
+approxim 1
+formula 1
+displac 1
+thick 1
+laminar 1
+boundari 1
+layer 1
+compress 1
+flow 1
+flat 1
+plate 1

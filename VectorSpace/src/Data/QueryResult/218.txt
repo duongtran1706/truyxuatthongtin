@@ -1,0 +1,6 @@
+heat 1
+transfer 1
+blunt 1
+bodi 1
+absenc 1
+vortic 1

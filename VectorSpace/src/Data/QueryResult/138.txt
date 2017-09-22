@@ -1,0 +1,9 @@
+effect 1
+initi 1
+stress 1
+frequenc 1
+vibrat 1
+circular 1
+cylindr 1
+shell 1
+investig 1

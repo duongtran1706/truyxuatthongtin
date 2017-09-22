@@ -1,0 +1,3 @@
+materi 2
+properti 1
+photoelast 1

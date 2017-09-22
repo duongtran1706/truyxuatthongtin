@@ -1,0 +1,8 @@
+aerodynam 1
+interfer 1
+effect 1
+fin 1
+lift 2
+bodi 1
+finbodi 1
+combin 1

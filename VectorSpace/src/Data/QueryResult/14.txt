@@ -1,0 +1,4 @@
+paper 1
+shocksound 1
+wave 1
+interact 1

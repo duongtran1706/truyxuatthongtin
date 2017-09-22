@@ -1,0 +1,13 @@
+problem 1
+buckl 1
+strength 1
+uniform 1
+circular 1
+cylind 1
+load 1
+axial 1
+compress 1
+linear 1
+solut 1
+improv 1
+nonlinear 1

@@ -1,0 +1,17 @@
+linear 2
+heat 2
+flow 1
+composit 2
+slab 2
+temperatur 2
+determin 1
+function 2
+posit 1
+time 1
+case 1
+conduct 1
+ture 1
+extern 1
+surfac 1
+consid 1
+prescrib 1

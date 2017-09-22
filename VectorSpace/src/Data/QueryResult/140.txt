@@ -1,0 +1,5 @@
+discontinu 1
+stress 1
+junction 1
+pressur 1
+structur 1

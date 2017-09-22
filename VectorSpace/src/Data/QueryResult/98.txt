@@ -1,0 +1,10 @@
+apex 1
+locat 1
+control 1
+effect 1
+subson 1
+speed 1
+compar 1
+convent 1
+trailingedg 1
+flap 1

@@ -1,0 +1,9 @@
+transon 1
+flow 1
+arbitrari 1
+smooth 1
+thin 1
+airfoil 1
+analys 1
+simpl 1
+approxim 1

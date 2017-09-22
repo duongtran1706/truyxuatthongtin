@@ -1,0 +1,8 @@
+inform 1
+dynam 1
+respons 1
+airplan 1
+gust 1
+blast 1
+subson 1
+regim 1

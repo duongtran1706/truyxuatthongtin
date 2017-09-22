@@ -1,0 +1,11 @@
+effect 1
+cross 1
+section 1
+shape 1
+flow 1
+simpl 1
+delta 1
+wing 1
+sharp 1
+lead 1
+edg 1

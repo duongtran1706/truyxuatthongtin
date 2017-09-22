@@ -1,0 +1,11 @@
+effect 1
+small 1
+amount 1
+ga 1
+rarefact 1
+characterist 1
+boundari 1
+layer 1
+slender 1
+bodi 1
+revolut 1
